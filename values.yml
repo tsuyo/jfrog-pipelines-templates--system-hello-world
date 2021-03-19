@@ -1,0 +1,6 @@
+pipelines:
+  name: template_hello_world
+gitRepo:
+  name: github__tsuyo__jfrog_pipelines_templates__system_hello_world
+  provider: tsuyo_github  
+  path: tsuyo/jfrog-pipelines-templates--system-hello-world
